@@ -1,1 +1,1 @@
-Git trials
+Git is cool
